@@ -14,7 +14,6 @@ import { QuestionsComponent } from './questions/questions.component';
 import { QuestionComponent } from './question/question.component';
 import { EditQuestionComponent } from './edit-question/edit-question.component';
 import { NewQuestionComponent } from './new-question/new-question.component';
-import { NavComponent } from './nav/nav.component';
 
 @NgModule({
   imports: [
@@ -30,8 +29,7 @@ import { NavComponent } from './nav/nav.component';
     QuestionsComponent,
     QuestionComponent,
     EditQuestionComponent,
-    NewQuestionComponent,
-    NavComponent
+    NewQuestionComponent
   ],
   bootstrap: [AppComponent]
 })

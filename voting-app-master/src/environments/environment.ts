@@ -6,12 +6,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyA0K0DsSJuVZs1wqLLOkJm_RyH2iDT8QHk',
-    authDomain: 'voting-app-warrengardner.firebaseapp.com',
-    databaseURL: 'https://voting-app-warrengardner.firebaseio.com',
-    projectId: 'voting-app-warrengardner',
-    storageBucket: 'voting-app-warrengardner.appspot.com',
-    messagingSenderId: '963198494990'
+    apiKey: 'AIzaSyCYr1QkvkI0mgbbso0lTMiVQ3Gc-qzQGlg',
+    authDomain: 'voting-app-mcc-fewd.firebaseapp.com',
+    databaseURL: 'https://voting-app-mcc-fewd.firebaseio.com',
+    projectId: 'voting-app-mcc-fewd',
+    storageBucket: 'voting-app-mcc-fewd.appspot.com',
+    messagingSenderId: '210770723469'
   }
- };
-
+};
