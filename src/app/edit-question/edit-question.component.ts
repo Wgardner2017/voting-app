@@ -6,7 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./edit-question.component.scss']
 })
 export class EditQuestionComponent implements OnInit {
-  constructor() {}
 
-  ngOnInit() {}
+  constructor() { }
+
+  ngOnInit() {
+  }
+
 }

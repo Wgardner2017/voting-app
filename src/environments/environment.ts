@@ -13,5 +13,4 @@ export const environment = {
     storageBucket: 'voting-app-warrengardner.appspot.com',
     messagingSenderId: '963198494990'
   }
- };
-
+};
